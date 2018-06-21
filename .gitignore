@@ -1,0 +1,10 @@
+*.dep
+*.axf
+*.htm
+*.map
+*.crf
+*.o
+*.d
+*.TMP
+*.iex
+/Debug/
